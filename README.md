@@ -1,5 +1,5 @@
 # Responsive Portfolio Website Yash
-https://surmayash.github.io/My-Responsive-Portfolio/#services
+https://surmayash.github.io/My-Responsive-Portfolio
 ### Responsive Portfolio Website Yash
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
